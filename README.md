@@ -40,7 +40,7 @@ This project is no longer being worked on. When I felt like I had gained enough 
 
 ## Room for improvement
 - Create more features relating to "Back office" (total spent, total benefit,...) and "Reservation".
-- Separate into a client-side (which can be found [_here_]()) and a server-side (which can be found [_here_]()).
+- Separate into a client-side (which can be found [_here_](https://github.com/Sorairono/RestaurantClient)) and a server-side (which can be found [_here_](https://github.com/Sorairono/RestaurantServer)).
 
 ## Contact
 Created by [@Sorairono](https://github.com/Sorairono) - feel free to contact me!
