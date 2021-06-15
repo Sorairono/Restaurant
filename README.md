@@ -25,6 +25,15 @@ A side project that I have done in Summer 2019 to learn more about JavaFX.
 - Receipt: Calculate the receipt for the table, then change the table's status to empty, waiting for new customer.
 
 ## Screenshots
+- Front Office
+![Screenshot 1](./img/FrontOffice_Table.png)
+![Screenshot 2](./img/FrontOffice_POS.png)
+
+- Kitchen
+![Screenshot 3](./img/Kitchen.png)
+
+- Settings
+![Screenshot 4](./img/Settings.png)
 
 ## Project status
 This project is no longer being worked on. When I felt like I had gained enough knowledge about JavaFX to work for the team, I slowly stop working on this project. However, there are still room for improvement and one day I might continue this from where I left off.
